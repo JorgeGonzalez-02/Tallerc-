@@ -1,0 +1,12 @@
+D:\Documentos\SharpDevelop Projects\TallerFunciones\Punto2\obj\Debug\Punto2.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\TallerFunciones\Punto2\bin\Debug\Punto2.exe.config
+D:\Documentos\SharpDevelop Projects\TallerFunciones\Punto2\bin\Debug\Punto2.exe
+D:\Documentos\SharpDevelop Projects\TallerFunciones\Punto2\bin\Debug\Punto2.pdb
+D:\Documentos\SharpDevelop Projects\TallerFunciones\Punto2\obj\Debug\Punto2.exe
+D:\Documentos\SharpDevelop Projects\TallerFunciones\Punto2\obj\Debug\Punto2.pdb
+D:\Documentos\SharpDevelop Projects\Ejercicios_Del_1-4\Punto2\bin\Debug\Punto2.exe.config
+D:\Documentos\SharpDevelop Projects\Ejercicios_Del_1-4\Punto2\bin\Debug\Punto2.exe
+D:\Documentos\SharpDevelop Projects\Ejercicios_Del_1-4\Punto2\bin\Debug\Punto2.pdb
+D:\Documentos\SharpDevelop Projects\Ejercicios_Del_1-4\Punto2\obj\Debug\Punto2.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\Ejercicios_Del_1-4\Punto2\obj\Debug\Punto2.exe
+D:\Documentos\SharpDevelop Projects\Ejercicios_Del_1-4\Punto2\obj\Debug\Punto2.pdb

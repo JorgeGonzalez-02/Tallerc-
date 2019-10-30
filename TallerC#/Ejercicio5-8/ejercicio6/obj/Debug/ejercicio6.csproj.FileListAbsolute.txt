@@ -1,0 +1,6 @@
+D:\Documentos\SharpDevelop Projects\Tallerpro\ejercicio6\bin\Debug\ejercicio6.exe.config
+D:\Documentos\SharpDevelop Projects\Tallerpro\ejercicio6\bin\Debug\ejercicio6.exe
+D:\Documentos\SharpDevelop Projects\Tallerpro\ejercicio6\bin\Debug\ejercicio6.pdb
+D:\Documentos\SharpDevelop Projects\Tallerpro\ejercicio6\obj\Debug\ejercicio6.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\Tallerpro\ejercicio6\obj\Debug\ejercicio6.exe
+D:\Documentos\SharpDevelop Projects\Tallerpro\ejercicio6\obj\Debug\ejercicio6.pdb
